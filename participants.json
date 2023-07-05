@@ -75,5 +75,99 @@
       ".1": "10% slice gap",
       ".2": "20% slice gap"
     }
+  },
+  "Age": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Age",
+        "Label": ""
+      },
+      "Transformation": {
+        "TermURL": "nb:float",
+        "Label": "float data"
+      }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
+  },
+  "Gender": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Sex",
+        "Label": ""
+      },
+      "Levels": {
+        "F": {
+          "TermURL": "snomed:248152002",
+          "Label": ""
+        },
+        "M": {
+          "TermURL": "snomed:248153007",
+          "Label": ""
+        }
+      }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
+  },
+  "KBIT_raw": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Assessment",
+        "Label": ""
+      },
+      "IsPartOf": {
+        "TermURL": "cogatlas:trm_529ce6ecb35f8",
+        "Label": ""
+      }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
+  },
+  "KBIT_standard": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Assessment",
+        "Label": ""
+      },
+      "IsPartOf": {
+        "TermURL": "cogatlas:trm_529ce6ecb35f8",
+        "Label": ""
+      }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
+  },
+  "ToM Booklet-Matched": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Assessment",
+        "Label": ""
+      },
+      "IsPartOf": {
+        "TermURL": "cogatlas:trm_4c8a8467304e2",
+        "Label": ""
+      }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
+  },
+  "ToM Booklet-Matched-NOFB": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Assessment",
+        "Label": ""
+      },
+      "IsPartOf": {
+        "TermURL": "cogatlas:trm_4c8a8467304e2",
+        "Label": ""
+      }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
+  },
+  "participant_id": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": ""
+      },
+      "Identifies": "participant"
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   }
 }
