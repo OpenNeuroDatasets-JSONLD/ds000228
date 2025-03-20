@@ -35,7 +35,8 @@
     },
     "KBIT_standard": {
       "Description": "Standardized score on KBIT nonverbal matrices task"
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "Dimensional Change Card Sort Metadata": {
     "Description": "Dimensional Change Card Sort (DCCS) is a task that measures the response inhibition component of executive functions, designd for young children (Zelazo, 2006). Children ages 3-5 years old completed this task. The task is comprised of two versions: the standard version (pre-switch task and post-switch task), where children have to sort cards according to one rule (pre-switch), and then according to a new rule (post-switch), and the border version, where children must sort cards according to two rules, depending on whether the card has a border. The shared data is the summary score (0-3), described below.",
@@ -53,7 +54,8 @@
     "Levels": {
       "3T1": "Scanner 1",
       "3T2": "Scanner 2"
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "Scanlog: Coil": {
     "Description": "Children under age five years used one of two custom 32-channel phased-array head coils made for younger (n=3, M(SD)=3.91(.42) years) or older (n=28, M(SD)=4.07(.42) years) children (Keil et al., 2011); all other participants used the standard Siemens 32-channel head coil.",
@@ -67,14 +69,16 @@
     "Levels": {
       "3mm iso": "3mm isotropic",
       "3.13 mm iso": "3.13 mm isotropic"
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "Scanlog: Slice Gap": {
     "Levels": {
       "None": "No slice gap",
       ".1": "10% slice gap",
       ".2": "20% slice gap"
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "Age": {
     "Annotations": {
